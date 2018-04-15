@@ -3,8 +3,7 @@ Impara l'alfabeto con Camilla Dalla Bona
 <!DOCTYPE html>
 <html>
 <p>15<sup>th</sup>April 2018</p>  
-<h1><b><Quella volta che mia madre mi tagliò i capelli come un fottuto skinhead</b></h1> 
-
+ <h1>Quella volta che mia madre mi tagliò i capelli come un fottuto skinhead</h1>
 <img src="https://i.ytimg.com/vi/_H1DsWsKLE8/maxresdefault.jpg">
 <article>
 <p>Correva l'anno 2000 e l'ultimo anno di asilo aveva riservato per me, una infestazione di pidocchi.</p>
