@@ -20,6 +20,6 @@ Impara l'alfabeto con Camilla Dalla Bona
 <p>Ma sapete una cosa? I pidocchi furono estirpati e i miei capelli tornarono quelli di un tempo, più o meno.</p>
  </article>
 <footer>
-  <span style="font-size: 4px; margin: 23px 0;">©Copyright 2018 by Camilla Dalla Bona. All rights reversed.</span>
+  <p>©Copyright 2018 by Camilla Dalla Bona. All rights reversed.</p>
     </footer>
     </html>
